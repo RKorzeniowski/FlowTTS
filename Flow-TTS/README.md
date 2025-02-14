@@ -1,7 +1,5 @@
 # Flow-TTS
 
-** Describe Flow-TTS **
-
 ## Training
 
 ### FlowTTS
